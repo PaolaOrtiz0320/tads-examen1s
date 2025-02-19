@@ -1,0 +1,19 @@
+/* Estilos para la imagen */
+#image {
+    transition: all 0.3s ease;
+}
+
+/* Aseguramos que los botones tengan un buen espaciado */
+.btn-group button {
+    margin: 0 5px;
+}
+
+.title {
+    font-size: 28px; /* Tamaño más grande */
+    font-weight: normal;
+}
+
+.title b {
+    font-size: 32px; /* Más grande que el texto normal */
+    font-weight: bold;
+}
